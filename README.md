@@ -52,15 +52,19 @@ Skills: C / C++ / REACT / JS / HTML / CSS
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40px' height='40px'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40px' height='40px'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40px' height='40px'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='40px' height='40px'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='40px' height='40px'></a> 
 <br>
 <br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=yuvika09)](https://github.com/ryo-ma/github-profile-trophy)
-<br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvika09)](https://github.com/anuraghazra/github-readme-stats)
-<br><br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yuvika09&show_icons=true)  
+##  ⚡️GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvika09&layout=compact&theme=react)](https://github.com/yuvika09/github-readme-stats)
 <br>
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yuvika09)  
+<a href="https://github.com/yuvika09">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=yuvika09&theme=react&count_private=true" alt="Yuvika's GitHub Stats" />
+</a>
 <br>
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yuvika09)  
+
+## &#x1f4c8; Some Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yuvika09&theme=black-ice)](https://git.io/streak-stats)
+<br>
+![Yuvika's github activity graph](https://activity-graph.herokuapp.com/graph?username=yuvika09&theme=react-dark&hide_border=true&area=true)
+<br>
 
 
 <div align = "center">
