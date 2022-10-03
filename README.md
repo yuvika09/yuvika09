@@ -41,7 +41,7 @@
 <img align="left" alt="express" height="45px" width="45px" src="https://img.icons8.com/office/2x/express-js.png" />
 <img align="left" alt="GitHub" height="45px" width="45px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="firebase" height="45px" width="45px" src="https://img.icons8.com/color/2x/firebase.png" />
-<img align="left" alt="heroku" height="45px" width="45px" src="https://img.icons8.com/color/2x/heroku.png" />
+<img align="left" alt="heroku" height="45px" width="45px" src="https://img.icons8.com/color/2x/heroku.png" /> <br><br>
 <img align="left" alt="canva" height="45px" width="45px" src="https://img.icons8.com/doodle/2x/canva.png" />
 <img align="left" alt="figma" height="45px" width="45px" src="https://img.icons8.com/color/2x/figma.png" />
 <img align="left" alt="oracle" height="45px" width="45px" src="https://img.icons8.com/color/2x/oracle-logo.png" />
