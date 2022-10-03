@@ -49,15 +49,15 @@ Skills: C / C++ / REACT / JS / HTML / CSS
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40px' height='40px'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40px' height='40px'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40px' height='40px'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35px' height='35px'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35px' height='35px'></a> 
 <br>
 <br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=SakshiRai01)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yuvika09)](https://github.com/ryo-ma/github-profile-trophy)
 <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiRai01)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvika09)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SakshiRai01&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yuvika09&show_icons=true)  
 <br>
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SakshiRai01)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yuvika09)  
 <br>
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SakshiRai01)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yuvika09)  
 
 
 <div align = "center">
@@ -67,5 +67,5 @@ Skills: C / C++ / REACT / JS / HTML / CSS
 
 
 
-Also, thanks for being one of the ![VisitorCount](https://profile-counter.glitch.me/SakshiRai01/count.svg) people to checkout my profile :heart:
+Also, thanks for being one of the ![VisitorCount](https://profile-counter.glitch.me/yuvika09/count.svg) people to checkout my profile :heart:
 
