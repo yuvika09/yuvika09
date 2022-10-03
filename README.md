@@ -31,8 +31,8 @@
 
 ## Languages and Tools :
 
-<img align="left" alt="HTML5" height="45px" width="45px" src="https://img.icons8.com/color/2x/html-5.png" />
-<img align="left" alt="CSS3" height="45px" width="45px" src="https://img.icons8.com/color/2x/css3.png" />
+<img align="left" alt="HTML5" width="45px" src="https://img.icons8.com/color/2x/html-5.png" />
+<img align="left" alt="CSS3" width="45px" src="https://img.icons8.com/color/2x/css3.png" />
 <img align="left" alt="JavaScript" height="40px" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" height="45px" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Nodejs" height="45px" width="45px" src="https://cdn-icons-png.flaticon.com/128/919/919825.png">
@@ -55,6 +55,8 @@
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40px' height='40px'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40px' height='40px'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40px' height='40px'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='40px' height='40px'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='40px' height='40px'></a> 
 <br>
+<br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=SakshiRai01)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
 
 ##  ⚡️GitHub Stats
