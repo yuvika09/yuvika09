@@ -7,8 +7,6 @@
 #### A tech enthusiast and a full stack developer
 
 
-Skills: C / C++ / REACT / JS / HTML / CSS
-
 - 🙋🏻‍♀️ Pronouns: She/her 
 - 🔭 I’m currently working on backend development and my coding skills.
 - 🌱 I’m currently learning Nodejs.
@@ -58,6 +56,7 @@ Skills: C / C++ / REACT / JS / HTML / CSS
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40px' height='40px'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40px' height='40px'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40px' height='40px'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='40px' height='40px'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='40px' height='40px'></a> 
 <br>
 <br>
+
 ##  ⚡️GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvika09&layout=compact&theme=react)](https://github.com/yuvika09/github-readme-stats)
 <br>
@@ -72,13 +71,10 @@ Skills: C / C++ / REACT / JS / HTML / CSS
 ![Yuvika's github activity graph](https://activity-graph.herokuapp.com/graph?username=yuvika09&theme=react-dark&hide_border=true&area=true)
 <br>
 
-
 <div align = "center">
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" /><em><b>I love connecting with different people</b> so if you want to say a <b>Hi!, I'll be happy to get to know you more!</b> :)</em>
 </div>
-
-
 
 Also, thanks for being one of the ![VisitorCount](https://profile-counter.glitch.me/yuvika09/count.svg) people to checkout my profile :heart:
 
