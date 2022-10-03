@@ -31,20 +31,20 @@
 
 ## Languages and Tools :
 
-<img align="left" alt="HTML5" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Nodejs" width="45px" src="https://cdn-icons-png.flaticon.com/128/919/919825.png">
-<img align="left" alt="bootstrap" width="45px" src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png">
-<img align="left" alt="mongodb" width="45px" src="https://img.icons8.com/color/2x/mongodb.png" />
-<img align="left" alt="mongodb" width="45px" src="https://img.icons8.com/office/2x/express-js.png" />
-<img align="left" alt="GitHub" width="45px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="firebase" width="45px" src="https://img.icons8.com/color/2x/firebase.png" />
-<img align="left" alt="heroku" width="45px" src="https://img.icons8.com/color/2x/heroku.png" />
-<img align="left" alt="canva" width="45px" src="https://img.icons8.com/doodle/2x/canva.png" />
-<img align="left" alt="figma" width="45px" src="https://img.icons8.com/color/2x/figma.png" />
-<img align="left" alt="oracle" width="45px" src="https://img.icons8.com/color/2x/oracle-logo.png" />
+<img align="left" alt="HTML5" height="45px" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" height="45px" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" height="45px" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" height="45px" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Nodejs" height="45px" width="45px" src="https://cdn-icons-png.flaticon.com/128/919/919825.png">
+<img align="left" alt="bootstrap" height="45px" width="45px" src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png">
+<img align="left" alt="mongodb" height="45px" width="45px" src="https://img.icons8.com/color/2x/mongodb.png" />
+<img align="left" alt="express" height="45px" width="45px" src="https://img.icons8.com/office/2x/express-js.png" />
+<img align="left" alt="GitHub" height="45px" width="45px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="firebase" height="45px" width="45px" src="https://img.icons8.com/color/2x/firebase.png" />
+<img align="left" alt="heroku" height="45px" width="45px" src="https://img.icons8.com/color/2x/heroku.png" />
+<img align="left" alt="canva" height="45px" width="45px" src="https://img.icons8.com/doodle/2x/canva.png" />
+<img align="left" alt="figma" height="45px" width="45px" src="https://img.icons8.com/color/2x/figma.png" />
+<img align="left" alt="oracle" height="45px" width="45px" src="https://img.icons8.com/color/2x/oracle-logo.png" />
 <img align="left" alt="C" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
 <img align="left" alt="C++" width="45px" src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" />
 <img align="left" alt="python" width="45px" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" /><br>
