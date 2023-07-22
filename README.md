@@ -26,6 +26,11 @@
 <a href="https://www.instagram.com/yuvii__092/">
   <img align="left" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
 </a>
+
+<a href="https://leetcode.com/yuvika_09/">
+  <img align="left" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />
+</a>
+
  </div>
 <br><br>
 
@@ -36,12 +41,11 @@
 <img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Nodejs" width="35px" src="https://cdn-icons-png.flaticon.com/128/919/919825.png">
+<img align="left" alt="express" width="35px" src="https://img.icons8.com/office/2x/express-js.png" />
 <img align="left" alt="bootstrap" width="35px" src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png">
 <img align="left" alt="mongodb" width="35px" src="https://img.icons8.com/color/2x/mongodb.png" />
-<img align="left" alt="express" width="35px" src="https://img.icons8.com/office/2x/express-js.png" />
 <img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="firebase" width="35px" src="https://img.icons8.com/color/2x/firebase.png" />
-<img align="left" alt="heroku" width="35px" src="https://img.icons8.com/color/2x/heroku.png" />
 <img align="left" alt="canva" width="35px" src="https://img.icons8.com/doodle/2x/canva.png" />
 <img align="left" alt="figma" width="35px" src="https://img.icons8.com/color/2x/figma.png" />
 <img align="left" alt="oracle" width="35px" src="https://img.icons8.com/color/2x/oracle-logo.png" />
