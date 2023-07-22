@@ -28,7 +28,7 @@
 </a>
 
 <a href="https://leetcode.com/yuvika_09/">
-  <img align="left" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />
+  <img align="left" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/64px-LeetCode_logo_white_no_text.svg.png" />
 </a>
 
  </div>
